@@ -1,0 +1,8 @@
+Metric,Value
+Customer records,10000.0
+Columns,14.0
+Missing cells,0.0
+Duplicate rows,0.0
+Churned,2037.0
+Retained,7963.0
+Overall churn rate (%),20.37
